@@ -1,0 +1,16 @@
+# Entorno virtual (NO subir)
+.venv/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Config local de editores / sistema
+.vscode/
+.DS_Store
+Thumbs.db
